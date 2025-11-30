@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-
 	"github.com/gin-gonic/gin"
+	"github.com/vanindm/studyservice/Models"
 )
 
 func main() {
